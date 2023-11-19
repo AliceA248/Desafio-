@@ -1,4 +1,4 @@
-# Desafio - Somatório de Múltiplos de 3 e 5
+# Desafio - Somatório de Múltiplos de 3 ou 5
 Este projeto consiste em uma função simples que calcula o somatório de todos os valores inteiros divisíveis por 3 ou 5 que sejam inferiores ao número passado como argumento 🚀
 
 ## Instruções para Rodar o Projeto
