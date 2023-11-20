@@ -6,7 +6,7 @@ Este projeto consiste em uma função simples que calcula o somatório de todos 
 * Clone este repositório para o seu computador:
 
 ```bash 
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone git@github.com:AliceA248/Desafio-.git
 
 ```
 Substitua seu-usuario e seu-repositorio pelos seus detalhes no GitHub.
