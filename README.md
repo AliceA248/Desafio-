@@ -23,7 +23,7 @@ cd Desafio-
 ````bash
 npm install ou npm i
 ````
-# Para rodar o projeto, utilize o seguinte comando:
+## Para rodar o projeto, utilize o seguinte comando:
 
 ````bash
 npm start
